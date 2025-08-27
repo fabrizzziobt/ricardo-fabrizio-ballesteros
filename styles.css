@@ -245,6 +245,10 @@ header {
   }
 
   /*Career Section*/
+  .job-card {
+    margin: 50px;
+  }
+
   .card-header {
     width: 100%;
     position: relative;
